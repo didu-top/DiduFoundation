@@ -1,4 +1,4 @@
-# KfangFoundation
+# DiduFoundation
 
 A description of this package.
-# KfangFoundation
+# DiduFoundation
